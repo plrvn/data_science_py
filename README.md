@@ -1,2 +1,2 @@
 # data_science_py
-Notes on Data Science using Python
+Notes on Data Science with Python
